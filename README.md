@@ -1,7 +1,5 @@
-# ionic Memory Game
+# lava jato Crush
 
-Memory game built in Ionic, Angular and Cordova
-![ionic-memory-game screenshots](https://raw.github.com/segra/ionic-memory-game/gh-pages/images/screenshots.png)
 
 ## Table of Contents
 
@@ -21,7 +19,6 @@ $ gulp install
 ```
 
 View in browser
-
 ```
 ionic serve
 ```
@@ -37,30 +34,5 @@ ionic serve
 * event broadcasting
 
 **[Back to top](#table-of-contents)**
-
-## Demo
-an online demo of this app is available at http://segra.github.io/ionic-memory-game/
-
-## TODO
-* timed game mode
-* game statistics
-* add sound effects
-* refactor ‘theme’ implementation to reduce watchers
-* improve local storage offline syncing
-* create a splash screen and icon
-
-**[Back to top](#table-of-contents)**
-
-## License
-
-Licensed under the MIT Open Source license. For more information, see the LICENSE file in this repository.
-
-**[Back to top](#table-of-contents)**
-
-
-
-
-
-
 
 
